@@ -1,0 +1,23 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "my implementation of https://github.com/Microsoft/TypeScript-React-Starter tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benreimer/TypeScript-React-Starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benreimer/TypeScript-React-Starter/issues"
+  },
+  "homepage": "https://github.com/benreimer/TypeScript-React-Starter#readme"
+}
